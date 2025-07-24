@@ -2,8 +2,8 @@
   "name": "my-rn-utils",
   "version": "1.0.0",
   "description": "Reusable utilities for React Native",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "dist/lib/index.js",
+  "types": "dist/lib/index.d.ts",
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build"
